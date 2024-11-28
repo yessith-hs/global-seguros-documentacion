@@ -3,7 +3,7 @@
 ### Descripción
 - Muestra la lista de productos y gestionar la interacción del usuario con los detalles de los productos seleccionados.
 - Calcula las comisiones globales basadas en valores seleccionados por el usuario de varios campos de lista de selección.
-- Utiliza el modulo de **"uiObjectInfoApi"** el cual incluye adaptadores wire para obtener los metadatos del objeto Quote, asi como los valores de los campos de tipo picklist.
+- Utiliza el módulo de **"uiObjectInfoApi"** el cual incluye adaptadores wire para obtener los metadatos del objeto Quote, asi como los valores de los campos de tipo picklist.
 - Interactúa con un servicio llamado **gsvTvsCommissionCalculator** el cual es un Integration Procedure para el cálculo de comisiones.
 
 
