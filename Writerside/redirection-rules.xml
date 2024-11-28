@@ -6,4 +6,8 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="2732f14f">
+        <description>Created after removal of "GlobalCommissionCalculatorCmp" from Instance Name</description>
+        <accepts>GlobalOnboardingComparadorCmp.html</accepts>
+    </rule>
 </rules>

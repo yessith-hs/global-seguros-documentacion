@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="GlobalCommissionCalculatorCmp.md"/>
+    <toc-element topic="GlobalOnboardingComparadorCmp.md"/>
+    <toc-element topic="GlobalOnboardingQuoteCardCmp.md"/>
+    <toc-element topic="GlobalOnboardingProgressIndicatorCmp.md"/>
+    <toc-element topic="GlobalOnboardingProductCardCmp.md"/>
+    <toc-element topic="GlobalOnboardingHeaderCmp.md"/>
+    <toc-element topic="AttachmentUpload.md"/>
+</instance-profile>
